@@ -1,5 +1,7 @@
 # stopwatch_exercise
 
+![Stopwatch](./1350101-Hanhart-Split-Stopwatch.jpg)
+
 This is an execrise to understand asyncronous programing, as it happens in the Javascript Environment.
 
 ## Why 
